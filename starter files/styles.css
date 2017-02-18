@@ -1,0 +1,25 @@
+.menu{
+  font-size: 20px;
+  color: green;
+  cursor: pointer;
+  font-family: 'Nunito Sans', sans-serif;
+  text-align: center;
+}
+h1, h2, h3 {
+  font-family: 'Nunito Sans', sans-serif;
+}
+body {
+  font-family: 'Nunito Sans', sans-serif;
+}
+header h1 {
+   margin: 0;
+   font-size: 60px;
+   color: black
+   text-align:center;
+}
+.img-circle {
+    border-radius: 50%;
+}
+p {
+  margin-left: 40px;
+}
